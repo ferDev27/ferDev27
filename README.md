@@ -1,16 +1,19 @@
-### Hi there 👋
-
-<!--
-**ferDev27/ferDev27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ferDev27 GitHub Profile -->
+<div align="justify">
+<p align="left"><strong><samp>┌──────────────────────────────────────────────────────────────────────────────────┐</samp></strong></p>
+  <p align="center">
+    <samp>
+      <b>
+        Hi there ! 
+      <br>
+      <br>
+        I am a software developer that likes building stuff, learning new skills and linux 
+      </b>
+      <br>
+      <br>
+      <b>
+        ~ ferDev27.greet() ~
+      </b>
+    </samp>
+  </p>
+<p align="left"><strong><samp>└──────────────────────────────────────────────────────────────────────────────────┘</samp></strong></p>
